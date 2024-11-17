@@ -9,14 +9,62 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@headlessui/react": "^2.1.7",
+    "@heroicons/react": "^1.0.6",
+    "@martifylabs/mesh": "^1.2.0-beta.4",
+    "@martifylabs/mesh-react": "^1.1.1",
+    "@meshsdk/core": "1.2.0-beta.4",
+    "@meshsdk/react": "1.1.1",
+    "@mui/icons-material": "^5.14.19",
+    "@mui/material": "^5.16.7",
+    "@stripe/react-stripe-js": "^2.4.0",
+    "@stripe/stripe-js": "^2.4.0",
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "autoprefixer": "10.4.14",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.11.1",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "formik": "^2.4.6",
+    "framer-motion": "^11.11.9",
+    "next": "^13.5.6",
+    "postcss": "8.4.27",
+    "preline": "^1.9.0",
+    "qrcode": "^1.5.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-countup": "^6.5.3",
+    "react-datepicker": "^6.9.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^5.3.0",
+    "react-select": "^5.8.0",
+    "socket.io-client": "^4.7.2",
+    "stripe": "^14.16.0",
+    "tailwindcss": "3.3.3",
+    "uuid": "^9.0.1",
+    "yup": "^1.4.0",
+    "zustand": "^4.5.5"
   },
-  "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "15.0.3"
-  }
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinzaaSheikh/quiz-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KinzaaSheikh/quiz-game/issues"
+  },
+  "homepage": "https://github.com/KinzaaSheikh/quiz-game#readme"
 }
